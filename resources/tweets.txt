@@ -1,0 +1,6 @@
+Seperate each tweet with a semi-colon;
+Do not put spaces between tweets;
+For; example; each; word; in; this; sentence; is; a; individual; tweet;
+This allows the bot
+
+to caputure newline characters;
